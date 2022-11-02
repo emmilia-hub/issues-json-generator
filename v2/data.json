@@ -1,0 +1,33 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "wqq",
+      "url": "https://wen-luminous.xyz/",
+      "avatar": "https://fastly.jsdelivr.net/gh/emmilia-hub/blog-Images/img/202210311504016.jpg",
+      "screenshot": "",
+      "description": "Emmilia's boyfriend"
+    },
+    {
+      "title": "SkyReeves",
+      "url": "https://skyreeves.cn/",
+      "avatar": "https://img.skyreeves.cn/main/avatar96.gif",
+      "screenshot": "https://img.skyreeves.cn/hexo/截屏2022-10-30-04.04.40.png",
+      "description": "垫脚石记号"
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com/",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "screenshot": "",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn/",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "",
+      "description": "星语日点灯"
+    }
+  ]
+}
